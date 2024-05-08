@@ -40,9 +40,14 @@ write(out,block,nread);
 exit(0);}
 ```
 ## output
-```
--rwxr-xr-x    1 root     root         18348 Apr 17 14:14 file.o
-```
+
+![WhatsApp Image 2024-05-08 at 19 55 00_71126963](https://github.com/vijaygowdu/Linux-File-IO-Systems-locking/assets/147473788/ba5bff94-c9e1-42bd-b8a7-f7ddc0667471)
+
+![WhatsApp Image 2024-05-08 at 19 55 18_fece21d5](https://github.com/vijaygowdu/Linux-File-IO-Systems-locking/assets/147473788/46341f1e-4b1c-4842-8b80-91c26ebd492b)
+
+![WhatsApp Image 2024-05-08 at 19 55 34_005e3962](https://github.com/vijaygowdu/Linux-File-IO-Systems-locking/assets/147473788/8b5ce0ca-d0f4-44a4-b969-ba32cd5b97bd)
+
+
 ## 2.To Write a C program that illustrates files locking
 ```
 #include <fcntl.h>
@@ -84,8 +89,7 @@ return 0;
 }
 ```
 ## OUTPUT
-```
--rwxr-xr-x    1 root     root         18376 Apr 17 14:20 text.o
-```
+![WhatsApp Image 2024-05-08 at 19 57 11_7c9c0348](https://github.com/vijaygowdu/Linux-File-IO-Systems-locking/assets/147473788/6cffb692-79f1-4699-8f5a-2241a0ca08ea)
+
 ## RESULT:
 The programs are executed successfully.
